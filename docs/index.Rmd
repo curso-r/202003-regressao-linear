@@ -55,12 +55,12 @@ theme_set(theme_minimal(12))
 - Interações
 - Multicolinearidade
 - Fazendo Predições
-- Interpretabilidade da Predição
-- Sobreajuste (overfitting)
-- Regularização
-- LASSO e Seleção de Preditores
-- Validação Cruzada
-- Limitações da Regressão Linear
+- <p style="color:red;margin-top:0px;margin-bottom:0px;">Interpretabilidade da Predição</p>
+- <p style="color:red;margin-top:0px;margin-bottom:0px;">Sobreajuste (overfitting)</p>
+- <p style="color:red;margin-top:0px;margin-bottom:0px;">Regularização</p>
+- <p style="color:red;margin-top:0px;margin-bottom:0px;">LASSO e Seleção de Preditores</p>
+- <p style="color:red;margin-top:0px;margin-bottom:0px;">Validação Cruzada</p>
+- <p style="color:red;margin-top:0px;margin-bottom:0px;">Limitações da Regressão Linear</p>
 - Exercício para casa
 
 ---

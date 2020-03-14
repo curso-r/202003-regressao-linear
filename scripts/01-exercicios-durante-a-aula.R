@@ -21,7 +21,7 @@ glimpse(cars)
 ggplot(cars) + 
   geom_point(aes(x = speed, y = dist))
 
-# ajuste de uma regressão linear simples
+# ajuste de uma regressão linear simples (a melhor reta)
 melhor_reta <- lm(dist ~ speed, data = cars)
 
 # tabela com as predições junto
@@ -269,7 +269,15 @@ explicacao <- explain(Boston[1:2, ], explicador, n_features = 5) # Aquijá está
 plot_features() # preencha aqui
 
 
+# Para a casa:
 
+# Introduction to Statistical Learning
+# Páginas 121 e 122, exercícios 8 e 9.
+
+
+# Entrar no Kaggle.com e fazer uma conta grátis
+# Descobrir o que significa um Kernel do Kaggle
+# Ler 2 kernels do Kaggle que use regressão linear
 
 
 
